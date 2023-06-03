@@ -9,6 +9,6 @@ Install NPM via ``` npm install `` in the terminal. Then execute ``` npm run bui
 
 Heroku deploytion: https://text-editor-shtuupid.herokuapp.com/
 
-# Authour
+# Author
 
 Mohamed Barreh <github.com/shtuupid>
