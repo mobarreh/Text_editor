@@ -33,7 +33,7 @@ registerRoute(
     cacheName: "asset-cache",
 		plugins: [
 			// Cache limited time storage
-			new CacheableResponsePlug n({
+			new CacheableResponsePlug ({
 				statuses: [0, 200],
 			}),
 		],
